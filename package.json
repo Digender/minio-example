@@ -1,0 +1,23 @@
+{
+  "name": "minio-example",
+  "version": "1.0.0",
+  "description": "Minio server with node example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Minio",
+    "NodeJs"
+  ],
+  "author": "Digender Mahara <mdigender@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gup": "^1.1.1"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "minio": "^3.1.3"
+  }
+}
